@@ -61,7 +61,7 @@ The physical dye propagation photographs matched the 3D computational species vo
 
 ---
 
-## 💡 Key Takeaway & Professional Competencies
+## Key Takeaway & Professional Competencies
 This academic study project reflects my practical approach to solving complex environmental and industrial engineering problems:
 
 - **Rigorous Cross-Validation Framework (QA/QC):** By coupling physical laboratory stimulus-response data with numerical finite-volume calculations, I ensured the digital model wasn't just a "visual approximation" but a statistically validated framework (limiting Mean Residence Time error to <6%). I know that utility in modeling depends entirely on anchoring math against physical reality.
@@ -70,6 +70,6 @@ This academic study project reflects my practical approach to solving complex en
 
 ---
 
-## 🔒 Intellectual Property & Open-Source Exception Notice
+## Intellectual Property & Open-Source Exception Notice
 To protect the novelty and intellectual property of this upcoming peer-reviewed publication, the raw configuration assets are withheld from open-source distribution. Full replication materials will be made available upon formal journal acceptance.
 
