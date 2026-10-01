@@ -1,6 +1,6 @@
 # Statistical Learning for Earth System Sciences: Predictive Modeling & Advanced Spatial Hypothesis Testing
 
-> 📄 **Note on Documentation:** The full academic project report is available as a PDF in the `documentation/` folder, and the executable deployment scripts are located in the main directory (`.R` files). This study was executed under the Module "Statistical Learning" at TUD Dresden University of Technology.
+> **Note on Documentation:** The full academic project report is available as a PDF in the `documentation/` folder, and the executable deployment scripts are located in the main directory (`.R` files). This study was executed under the Module "Statistical Learning" at TUD Dresden University of Technology.
 
 ---
 
