@@ -55,7 +55,7 @@ Adding an internal deflector baffle flattened the initial breakout peak and dras
 ### 3. Qualitative Tracer Transport Comparison
 The physical dye propagation photographs matched the 3D computational species volume rendering profiles across key temporal milestones. At \(t = 5\text{ min}\), both domains visually confirm the fluid plume deflecting downward below the baffle edge before rising into the primary settling core:
 
-![Visual Plume Validation](assets/flow-validation-milestones.png)
+![Dynamic CFD Flow Animation](assets/cfd-fluid-flow.gif)
 
 ---
 
